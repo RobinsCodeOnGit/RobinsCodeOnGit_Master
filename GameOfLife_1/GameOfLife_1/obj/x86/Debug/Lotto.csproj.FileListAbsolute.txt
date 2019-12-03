@@ -1,0 +1,27 @@
+C:\Users\Admin\Desktop\Schule\Lotto\Lotto\bin\Debug\Lotto.exe
+C:\Users\Admin\Desktop\Schule\Lotto\Lotto\bin\Debug\Lotto.pdb
+C:\Users\Admin\Desktop\Schule\Lotto\Lotto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Schule\Lotto\Lotto\obj\x86\Debug\Lotto.Form1.resources
+C:\Users\Admin\Desktop\Schule\Lotto\Lotto\obj\x86\Debug\Lotto.Properties.Resources.resources
+C:\Users\Admin\Desktop\Schule\Lotto\Lotto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\Schule\Lotto\Lotto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\Schule\Lotto\Lotto\obj\x86\Debug\Lotto.exe
+C:\Users\Admin\Desktop\Schule\Lotto\Lotto\obj\x86\Debug\Lotto.pdb
+C:\Dokumente und Einstellungen\Greiner\Desktop\Schule\Lotto\Lotto\bin\Debug\Lotto.exe
+C:\Dokumente und Einstellungen\Greiner\Desktop\Schule\Lotto\Lotto\bin\Debug\Lotto.pdb
+C:\Dokumente und Einstellungen\Greiner\Desktop\Schule\Lotto\Lotto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Greiner\Desktop\Schule\Lotto\Lotto\obj\x86\Debug\Lotto.Form1.resources
+C:\Dokumente und Einstellungen\Greiner\Desktop\Schule\Lotto\Lotto\obj\x86\Debug\Lotto.Properties.Resources.resources
+C:\Dokumente und Einstellungen\Greiner\Desktop\Schule\Lotto\Lotto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dokumente und Einstellungen\Greiner\Desktop\Schule\Lotto\Lotto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dokumente und Einstellungen\Greiner\Desktop\Schule\Lotto\Lotto\obj\x86\Debug\Lotto.exe
+C:\Dokumente und Einstellungen\Greiner\Desktop\Schule\Lotto\Lotto\obj\x86\Debug\Lotto.pdb
+C:\Users\Admin\Desktop\Schule\Lottozahlen\Lotto\bin\Debug\Lotto.exe
+C:\Users\Admin\Desktop\Schule\Lottozahlen\Lotto\bin\Debug\Lotto.pdb
+C:\Users\Admin\Desktop\Schule\Lottozahlen\Lotto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Schule\Lottozahlen\Lotto\obj\x86\Debug\Lotto.Form1.resources
+C:\Users\Admin\Desktop\Schule\Lottozahlen\Lotto\obj\x86\Debug\Lotto.Properties.Resources.resources
+C:\Users\Admin\Desktop\Schule\Lottozahlen\Lotto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\Schule\Lottozahlen\Lotto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\Schule\Lottozahlen\Lotto\obj\x86\Debug\Lotto.exe
+C:\Users\Admin\Desktop\Schule\Lottozahlen\Lotto\obj\x86\Debug\Lotto.pdb

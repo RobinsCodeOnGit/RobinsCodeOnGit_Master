@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\Schule\Lotto\Lotto\bin\Release\Lotto.exe
+C:\Users\Admin\Desktop\Schule\Lotto\Lotto\bin\Release\Lotto.pdb
+C:\Users\Admin\Desktop\Schule\Lotto\Lotto\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Schule\Lotto\Lotto\obj\x86\Release\Lotto.Form1.resources
+C:\Users\Admin\Desktop\Schule\Lotto\Lotto\obj\x86\Release\Lotto.Properties.Resources.resources
+C:\Users\Admin\Desktop\Schule\Lotto\Lotto\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\Schule\Lotto\Lotto\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\Schule\Lotto\Lotto\obj\x86\Release\Lotto.exe
+C:\Users\Admin\Desktop\Schule\Lotto\Lotto\obj\x86\Release\Lotto.pdb

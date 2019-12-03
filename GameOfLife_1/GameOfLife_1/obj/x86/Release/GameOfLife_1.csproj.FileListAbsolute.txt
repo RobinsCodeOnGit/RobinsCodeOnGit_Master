@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\Schule\GameOfLife\GameOfLife_1\obj\x86\Release\Lotto.exe
+C:\Users\Admin\Desktop\Schule\GameOfLife\GameOfLife_1\obj\x86\Release\Lotto.pdb
+C:\Users\Admin\Desktop\Schule\GameOfLife\GameOfLife_1\bin\Release\Lotto.exe
+C:\Users\Admin\Desktop\Schule\GameOfLife\GameOfLife_1\bin\Release\Lotto.pdb
+C:\Users\Admin\Desktop\Schule\GameOfLife\GameOfLife_1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Schule\GameOfLife\GameOfLife_1\obj\x86\Release\GameOfLife_1.Form1.resources
+C:\Users\Admin\Desktop\Schule\GameOfLife\GameOfLife_1\obj\x86\Release\GameOfLife_1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Schule\GameOfLife\GameOfLife_1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\Schule\GameOfLife\GameOfLife_1\obj\x86\Release\GenerateResource.write.1.tlog
